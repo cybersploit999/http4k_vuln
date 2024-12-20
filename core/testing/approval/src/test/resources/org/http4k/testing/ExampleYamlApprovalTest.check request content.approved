@@ -1,0 +1,6 @@
+yamlRoot:
+  child:
+  - hello
+  - there
+  num: 123
+

@@ -1,0 +1,30 @@
+{
+  "resources": {
+    "GET:/basepath/nometa": "<unknown>",
+    "GET:/basepath/descriptions": "endpoint",
+    "POST:/basepath/paths/{firstName}/bertrand/{age}/{foo}": "<unknown>",
+    "POST:/basepath/queries": "<unknown>",
+    "POST:/basepath/cookies": "<unknown>",
+    "POST:/basepath/headers": "<unknown>",
+    "POST:/basepath/body_receiving_string": "body_receiving_string",
+    "GET:/basepath/body_string": "<unknown>",
+    "POST:/basepath/body_json_noschema": "<unknown>",
+    "POST:/basepath/body_json_response": "<unknown>",
+    "POST:/basepath/body_json_schema": "<unknown>",
+    "POST:/basepath/body_json_list_schema": "<unknown>",
+    "POST:/basepath/basic_auth": "<unknown>",
+    "POST:/basepath/and_auth": "<unknown>",
+    "POST:/basepath/or_auth": "<unknown>",
+    "POST:/basepath/oauth2_auth": "<unknown>",
+    "POST:/basepath/callback_with_body": "<unknown>",
+    "POST:/basepath/body_form": "<unknown>",
+    "POST:/basepath/body_form_example": "<unknown>",
+    "GET:/basepath/produces_and_consumes": "<unknown>",
+    "POST:/basepath/returning": "<unknown>",
+    "PUT:/basepath/multipart-fields": "<unknown>",
+    "GET:/basepath/pdf-file": "<unknown>",
+    "GET:/basepath/png-file": "<unknown>",
+    "POST:/basepath/bearer_auth": "<unknown>",
+    "POST:/basepath/body_negotiated": "<unknown>"
+  }
+}
